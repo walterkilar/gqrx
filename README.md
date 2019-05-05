@@ -154,6 +154,8 @@ optionally, on the Projects page, under Build Steps/Make/Additional arguments,
 	enter -j4 (replacing 4 with the number of cores in your CPU).
 Use Qt Creator as before
 </pre>
+-------------------
+![Working 2.11.5 implementation on HackRF One](2019-5-5-qgrx.png)
 
 Credits and License
 -------------------
