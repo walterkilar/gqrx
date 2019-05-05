@@ -155,7 +155,7 @@ optionally, on the Projects page, under Build Steps/Make/Additional arguments,
 Use Qt Creator as before
 </pre>
 -------------------
-![Working 2.11.5 implementation on HackRF One](2019-5-5-qgrx.png)
+![Working 2.11.5 implementation on HackRF One](2019-5-5-gqrx.png)
 
 Credits and License
 -------------------
